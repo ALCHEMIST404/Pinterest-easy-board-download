@@ -1,4 +1,5 @@
 # Pinterest-easy-board-download
+<img src="https://camo.githubusercontent.com/b792c14c7f4dea762d5f386ad20baddb32dd9db5c9f334a68063bd8dcda3bf37/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f707974686f6e2d332e362d677265656e2e7376673f7374796c653d706c6173746963" alt="Python 3.6" data-canonical-src="https://img.shields.io/badge/python-3.6-green.svg?style=plastic" style="max-width:100%;"> <img src="https://camo.githubusercontent.com/f3346ea2f191f90086ab33fe58a2a8f71504f9a280d5535fad1c1d7f4e73a408/68747470733a2f2f696d672e736869656c64732e696f2f707970692f6c2f646f68712d6578616d706c652d70726f6a6563742e737667" alt="ExampleProject license" data-canonical-src="https://img.shields.io/pypi/l/dohq-example-project.svg" style="max-width:100%;">
 
 This simple Python project will help you download a Pinterest board.
 
